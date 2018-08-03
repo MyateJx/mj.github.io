@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>MJ.Hsu 的个人博客</title>
+  <title>MyateJx 的个人博客</title>
   
   
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://myatejx.github.io/</id>
   
   <author>
-    <name>MJ.Hsu</name>
+    <name>MyateJx</name>
     
   </author>
   
